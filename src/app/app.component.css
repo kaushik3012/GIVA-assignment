@@ -1,0 +1,16 @@
+header {
+    margin-bottom:20px
+}
+
+.content-wrapper {
+    padding-top: 50px;
+}
+
+#outer-container {
+    width:60%;
+}
+
+mat-card> .container {
+    flex-wrap: wrap; 
+    justify-content: center;
+}

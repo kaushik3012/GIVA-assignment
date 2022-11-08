@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "giva-hiring": {
+      "hosting": {
+        "giva-app": [
+          "giva-hiring"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "giva-hiring"
+  }
+}
