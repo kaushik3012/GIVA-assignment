@@ -1,9 +1,9 @@
 # GivaApp
 
-This web app was made as an assignment for Giva intern recruitment.
-The tech stack used is : Angular with Firebase.
+This web app was made as an assignment for Giva intern recruitment.<br>
+The tech stack used is : Angular with Firebase.<br>
 The live version of the web app can be viewed at this link : https://giva-hiring.web.app/
-
+<br>
 ## Angular Stuff
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
